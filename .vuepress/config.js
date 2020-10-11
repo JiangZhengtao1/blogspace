@@ -1,10 +1,10 @@
 module.exports = {
   "title": "KingJzt",
   "description": "some study articles",
-  "dest": "docs",
+  "dest": ".vuepress/dist",
   "base": "/blogspace/",
   "plugins": [
-    [
+      [
       "meting", {
         meting: {
           auto: "https://music.163.com/#/playlist?id=3020709484"
@@ -16,6 +16,18 @@ module.exports = {
           cover: false // 取消封面覆盖
         }
       }
+    ]
+    ,['@vuepress-reco/comments', 
+        {
+    		solution: 'vssue',
+    		options: {
+      			platform: 'github',
+      			owner: 'OWNER_OF_REPO',
+      			repo: 'NAME_OF_REPO',
+      			clientId: 'YOUR_CLIENT_ID',
+      			clientSecret: 'YOUR_CLIENT_SECRET',
+    		}
+  		}
     ]
   ],
   "head": [
