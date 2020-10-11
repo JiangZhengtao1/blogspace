@@ -22,10 +22,10 @@ module.exports = {
     		solution: 'vssue',
     		options: {
       			platform: 'github',
-      			owner: 'OWNER_OF_REPO',
-      			repo: 'NAME_OF_REPO',
-      			clientId: 'YOUR_CLIENT_ID',
-      			clientSecret: 'YOUR_CLIENT_SECRET',
+      			owner: ' JiangZhengtao1 ',
+      			repo: 'blogspace',
+      			clientId: process.env.VSSUEID,
+      			clientSecret: process.env.VSSUESECRET,
     		}
   		}
     ]
