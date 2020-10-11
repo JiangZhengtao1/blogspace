@@ -2,6 +2,7 @@ module.exports = {
   "title": "KingJzt",
   "description": "some study articles",
   "dest": "public",
+  "base": "/blogspace/",
   "plugins": [
     [
       "meting", {
