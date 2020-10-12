@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "KingJzt",
-  "description": "some study articles",
+  "title": "Jzt's blog",
+  "description": "海岸，山巅，丛林，博客",
   "dest": ".vuepress/dist",
   "base": "/blogspace/",
   "plugins": [

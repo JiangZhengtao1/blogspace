@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Jzt's blog
+tagline: 生活不止眼前的苟且，还有诗和远方
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
