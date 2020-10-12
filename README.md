@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Jzt's blog
-tagline: singing,dancing,rapping,coding
+tagline: 海岸，山巅，丛林，博客
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
