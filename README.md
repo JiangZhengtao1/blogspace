@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Jzt's blog
-tagline: 生活不止眼前的苟且，还有诗和远方
+tagline: singing,dancing,rapping,coding
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
