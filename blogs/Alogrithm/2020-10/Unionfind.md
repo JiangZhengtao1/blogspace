@@ -1,3 +1,15 @@
+---
+title: 并查集
+date: 2020-10-10
+tags:
+ - 并查集
+ - 算法
+categories:
+ -  Alogrithm
+---
+并查集可以实现Union操作和find操作的时间复杂度O(1)
+
+<!-- more -->
 # Union Find
 
 ## What's Union Find
