@@ -16,18 +16,39 @@ module.exports = {
           cover: false // 取消封面覆盖
         }
       }
+    ],
+    //复制插件
+    [ // https://www.npmjs.com/package/vuepress-plugin-nuggets-style-copy
+      "vuepress-plugin-nuggets-style-copy", {
+        copyText: "copy",
+        tip: {
+          content: "复制成功!"
+        }
+      }
     ]
-    ,['@vuepress-reco/comments', 
-        {
-    		solution: 'vssue',
-    		options: {
-      			platform: 'github',
-      			owner: ' JiangZhengtao1 ',
-      			repo: 'blogspace',
-      			clientId: process.env.VSSUEID,
-      			clientSecret: process.env.VSSUESECRET,
-    		}
-  		}
+    //,['@vuepress-reco/comments', 
+    //    {
+    //		solution: 'vssue',
+    //		options: {
+     // 			platform: 'github',
+     // 			owner: ' JiangZhengtao1 ',
+    //  			repo: 'blogspace',
+    //  			clientId: process.env.VSSUEID,
+    //  			clientSecret: process.env.VSSUESECRET,
+    //		}
+  	//	}
+    //],
+    ,[
+      'vuepress-plugin-comment',
+      {
+        choosen: 'valine', 
+        // options选项中的所有参数，会传给Valine的配置
+        options: {
+          el: '#valine-vuepress-comment',
+          appId: process.env.VALINEID,
+          appKey: process.env.VALINEKEY
+        }
+      }
     ]
   ],
   "head": [
@@ -48,6 +69,7 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    noFoundPageByTencent: false,
     "nav": [
       {
         "text": "Home",
@@ -75,7 +97,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/JiangZhengtao1",
             "icon": "reco-github"
           }
         ]
@@ -122,7 +144,7 @@ module.exports = {
     "author": "Jzt",
     "authorAvatar": "/vx.jpg",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true

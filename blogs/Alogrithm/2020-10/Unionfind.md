@@ -7,6 +7,7 @@ tags:
 categories:
  - Alogrithm
 publish: true
+sidebar: auto
 ---
 并查集可以实现Union操作和find操作的时间复杂度O(1)
 
