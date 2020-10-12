@@ -115,12 +115,12 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/vx.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Jzt",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/vx.jpg",
     "record": "xxxx",
     "startYear": "2017"
   },
