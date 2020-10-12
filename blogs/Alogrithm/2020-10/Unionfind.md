@@ -5,7 +5,8 @@ tags:
  - 并查集
  - 算法
 categories:
- -  Alogrithm
+ - Alogrithm
+publish: true
 ---
 并查集可以实现Union操作和find操作的时间复杂度O(1)
 
