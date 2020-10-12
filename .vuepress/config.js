@@ -38,18 +38,18 @@ module.exports = {
     //		}
   	//	}
     //],
-    ,[
-      'vuepress-plugin-comment',
-      {
-        choosen: 'valine', 
-        // options选项中的所有参数，会传给Valine的配置
-        options: {
-          el: '#valine-vuepress-comment',
-          appId: process.env.VALINEID,
-          appKey: process.env.VALINEKEY
-        }
-      }
-    ]
+    // ,[
+    //   'vuepress-plugin-comment',
+    //   {
+    //     choosen: 'valine', 
+    //     // options选项中的所有参数，会传给Valine的配置
+    //     options: {
+    //       el: '#valine-vuepress-comment',
+    //       appId: process.env.VALINEID,
+    //       appKey: process.env.VALINEKEY
+    //     }
+    //   }
+    // ]
   ],
   "head": [
     [
@@ -144,7 +144,11 @@ module.exports = {
     "author": "Jzt",
     "authorAvatar": "/vx.jpg",
     "record": "xxxx",
-    "startYear": "2020"
+    "startYear": "2020",
+    valineConfig: {
+      appId: 'bhSHPmj1eH9goOJ8xVx8bNI6-gzGzoHsz',
+      appKey: 'Mzqq9RIoBbJ8vJ2VY1PWPM6T'
+    }
   },
   "markdown": {
     "lineNumbers": true
