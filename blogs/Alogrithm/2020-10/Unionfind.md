@@ -21,8 +21,7 @@
 
 每个集合有一个代表节点，初始化时自己是一个集合，自己是自己的代表节点，如1图所示：
 
-![1](https://i.loli.net/2020/10/12/4rb5uN6zf78JYdi.png)
-
+![](https://gitee.com/KingJzt/myblog-image-bed/raw/master/20201012151909.png)
 
 
 **代表节点**：在一个集合中，某个节点指回自己就是代表节点，如上图的1节点。
