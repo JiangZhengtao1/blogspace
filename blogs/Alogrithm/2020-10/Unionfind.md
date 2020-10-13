@@ -5,7 +5,7 @@ tags:
  - 并查集
  - 算法
 categories:
- - Alogrithm
+ - 算法
 publish: true
 sidebar: auto
 ---
