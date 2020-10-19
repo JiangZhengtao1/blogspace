@@ -9,9 +9,12 @@ categories:
 publish: true
 sidebar: auto
 ---
+:::tip
 并查集可以实现Union操作和find操作的时间复杂度O(1)
+:::
 
 <!-- more -->
+
 # Union Find
 
 ## What's Union Find

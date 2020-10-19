@@ -15,7 +15,7 @@ categories:
 
 :::
 
-<!-- more-->
+<!-- more -->
 
 ## 题目
 
