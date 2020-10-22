@@ -8,10 +8,12 @@
   },
   "devDependencies": {
     "vuepress": "1.5.4",
+    "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-meting": "^0.1.1",
     "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {
+    "markdown-it-katex": "^2.0.3",
     "vue-class-component": "^7.2.3",
     "vuepress-plugin-comment": "^0.7.3"
   },

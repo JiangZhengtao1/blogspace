@@ -25,31 +25,16 @@ module.exports = {
           content: "复制成功!"
         }
       }
-    ]
-    //,['@vuepress-reco/comments', 
-    //    {
-    //		solution: 'vssue',
-    //		options: {
-     // 			platform: 'github',
-     // 			owner: ' JiangZhengtao1 ',
-    //  			repo: 'blogspace',
-    //  			clientId: process.env.VSSUEID,
-    //  			clientSecret: process.env.VSSUESECRET,
-    //		}
-  	//	}
-    //],
-    // ,[
-    //   'vuepress-plugin-comment',
-    //   {
-    //     choosen: 'valine', 
-    //     // options选项中的所有参数，会传给Valine的配置
-    //     options: {
-    //       el: '#valine-vuepress-comment',
-    //       appId: process.env.VALINEID,
-    //       appKey: process.env.VALINEKEY
-    //     }
-    //   }
-    // ]
+    ],
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+  ]
   ],
   "head": [
     [
@@ -150,7 +135,8 @@ module.exports = {
       appKey: 'Mzqq9RIoBbJ8vJ2VY1PWPM6T'
     }
   },
-  "markdown": {
+  "markdown": 
+  {
     "lineNumbers": true
   }
 }
