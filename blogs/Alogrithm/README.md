@@ -1,5 +1,5 @@
 ---
-title: 算法
+title: Algorithm
 date: 2020-10-25
 ---
-算法readme
+Algorithm readme
