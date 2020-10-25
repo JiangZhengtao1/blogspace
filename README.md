@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Jzt's blog
-tagline: 海岸，山巅，丛林，博客
+tagline: 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生!
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

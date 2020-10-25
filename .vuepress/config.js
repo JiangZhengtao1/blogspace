@@ -1,6 +1,7 @@
+const sidebar = require('./config/sidebar/')
 module.exports = {
   "title": "Jzt's blog",
-  "description": "海岸，山巅，丛林，博客",
+  "description": "Welcome to Jzt's Blog.",
   "dest": ".vuepress/dist",
   "base": "/blogspace/",
   "plugins": [
@@ -34,7 +35,9 @@ module.exports = {
           '*': '\\times',
         },
       },
-  ]
+  ],
+  
+  ["vuepress-plugin-boxx"]
   ],
   "head": [
     [
@@ -54,7 +57,9 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    activeHeaderLinks: true,
     noFoundPageByTencent: false,
+    sidebar,
     "nav": [
       {
         "text": "首页",
@@ -88,14 +93,6 @@ module.exports = {
         ]
       }
     ],
-    "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
-      ]
-    },
     subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     "type": "blog",
     "blogConfig": {
@@ -128,7 +125,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "Jzt",
     "authorAvatar": "/vx.jpg",
-    "record": "xxxx",
+    "record": "湘ICP备2020020205号",
     "startYear": "2020",
     valineConfig: {
       appId: 'bhSHPmj1eH9goOJ8xVx8bNI6-gzGzoHsz',
