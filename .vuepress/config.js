@@ -8,7 +8,7 @@ module.exports = {
       [
       "meting", {
         meting: {
-          auto: "https://music.163.com/#/playlist?id=3020709484"
+          auto: "https://music.163.com/#/playlist?id=473093384"
         },
         aplayer: {
           lrcType: 0 	//禁用歌词显示
@@ -72,16 +72,6 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          }
-        ]
-      },
-      {
         "text": "联系我",
         "icon": "reco-message",
         "items": [
@@ -126,6 +116,9 @@ module.exports = {
     "author": "Jzt",
     "authorAvatar": "/vx.jpg",
     "record": "湘ICP备2020020205号",
+    "recordLink": 'http://beian.miit.gov.cn/',
+    //"cyberSecurityRecord": '豫公网安备41172602000151号',
+    //"cyberSecurityLink": 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41172602000151',
     "startYear": "2020",
     valineConfig: {
       appId: 'bhSHPmj1eH9goOJ8xVx8bNI6-gzGzoHsz',

@@ -17,7 +17,9 @@ module.exports={
                 'LeetCode/2020-10/518',
                 'LeetCode/2020-10/474',
                 'LeetCode/2020-10/416PartitionEqualSubsetSum',
-                'LeetCode/2020-10/322'
+                'LeetCode/2020-10/322',
+                'LeetCode/2020-10/309',
+                'LeetCode/2020-10/377'
             ]
         }
     ]
