@@ -78,6 +78,8 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
+      
+      
       {
         "text": "联系我",
         "icon": "reco-message",
@@ -86,8 +88,16 @@ module.exports = {
             "text": "GitHub",
             "link": "https://github.com/JiangZhengtao1",
             "icon": "reco-github"
+          },
+          {
+            "text": "lofter",
+            "link": "https://jiang-life.lofter.com",
           }
         ]
+      },{
+        "text": "关于",
+        "icon": "reco-account",
+        "link": "/about/"
       }
     ],
     subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
@@ -103,18 +113,6 @@ module.exports = {
       }
     },
     "friendLink": [
-      {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
-      }
     ],
     "logo": "/vx.jpg",
     "search": true,
