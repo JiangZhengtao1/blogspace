@@ -7,12 +7,13 @@
     "build": "vuepress build ."
   },
   "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.7.1",
     "vuepress": "1.5.4",
+    "vuepress-plugin-boxx": "0.0.7",
     "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-meting": "^0.1.1",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3",
-    "vuepress-theme-reco": "1.5.7",
-    "vuepress-plugin-boxx": "0.0.7"
+    "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {
     "markdown-it-katex": "^2.0.3",

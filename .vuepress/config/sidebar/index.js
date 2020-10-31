@@ -1,6 +1,5 @@
 module.exports={
     "/blogs/":[
-        '',
         {
             title: '算法',
             collapsable: true,
