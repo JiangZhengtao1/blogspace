@@ -21,6 +21,12 @@ module.exports={
                 'LeetCode/2020-10/309',
                 'LeetCode/2020-10/377'
             ]
+        },{
+            title: 'Git',
+            collapsable: true,
+            children:[
+                'Git/GIt'
+            ]
         }
     ]
 
