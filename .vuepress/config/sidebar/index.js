@@ -6,7 +6,8 @@ module.exports={
             children:[
                 'Algorithm/CompletePack',
                 'Algorithm/knapsack01',
-                'Algorithm/UnionFind'
+                'Algorithm/UnionFind',
+                'Algorithm/PackTaolu'
             ]
         },
         {
@@ -18,7 +19,8 @@ module.exports={
                 'LeetCode/2020-10/416PartitionEqualSubsetSum',
                 'LeetCode/2020-10/322',
                 'LeetCode/2020-10/309',
-                'LeetCode/2020-10/377'
+                'LeetCode/2020-10/377',
+                'LeetCode/2020-10/139'
             ]
         },{
             title: 'Git',

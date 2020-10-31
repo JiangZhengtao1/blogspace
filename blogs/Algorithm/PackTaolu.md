@@ -8,6 +8,14 @@ tags:
  - 背包问题
 ---
 
+:::tip
+
+**常见的背包问题有1、组合问题。2、True、False问题。3、最大最小问题。**
+
+:::
+
+<!-- more -->
+
 转载[希望用一种规律搞定背包问题](https://leetcode-cn.com/problems/combination-sum-iv/solution/xi-wang-yong-yi-chong-gui-lu-gao-ding-bei-bao-wen-/)
 
 ## 解题思路
@@ -15,18 +23,27 @@ tags:
 **常见的背包问题有1、组合问题。2、True、False问题。3、最大最小问题。**
 以下题目整理来自大神CyC，github地址：
 [github](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md#0-1-%E8%83%8C%E5%8C%85)
+
 我在大神整理的基础上，又做了细分的整理。分为三类。
+
+
+
 **1、组合问题：**
 
 [377.组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/description/)
 
 [494.目标和](https://leetcode-cn.com/problems/target-sum/description/)
 
+
+
 **2、True、False问题：**
 
 [139.单词拆分](https://leetcode-cn.com/problems/word-break/)
 
 [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/description/)
+
+
+
 **3、最大最小问题：**
 
 [474.一和零](https://leetcode-cn.com/problems/ones-and-zeroes/description/)
