@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b12ec70d23a610e0106ffc91d7c05f1d"
+    "revision": "9f90b97accc40ade0ab9816844eba1d1"
   },
   {
     "url": "assets/css/0.styles.200d2a76.css",
@@ -58,60 +58,64 @@ self.__precacheManifest = [
     "revision": "2d22b286bf41a6537adc5cdc24f75225"
   },
   {
-    "url": "assets/js/14.e8c0cf45.js",
-    "revision": "03057bfba6b64ee98ba059c7e2104841"
+    "url": "assets/js/14.4a4555d4.js",
+    "revision": "27ca8c9cd1f77621c045534e2b5ac011"
   },
   {
-    "url": "assets/js/15.0365bd32.js",
-    "revision": "d2d8f775390a24f8647e23513267945a"
+    "url": "assets/js/15.d900eb1f.js",
+    "revision": "5e43b08953e930a612fa57ae38ac09ca"
   },
   {
-    "url": "assets/js/16.ffd9d452.js",
-    "revision": "7f718ffe08e758a361071f441b217363"
+    "url": "assets/js/16.536d4646.js",
+    "revision": "160e1744ce5187a294f8185a857ddb9b"
   },
   {
-    "url": "assets/js/17.bfa94fc7.js",
-    "revision": "cba0b72f9c0fedc1cc7c294d08f45db0"
+    "url": "assets/js/17.e6f08a91.js",
+    "revision": "b76ec69ca03eaf983647130d440d7e0c"
   },
   {
-    "url": "assets/js/18.e3840e01.js",
-    "revision": "b667b9ea1d5bf2bd099df82086d40278"
+    "url": "assets/js/18.30598a26.js",
+    "revision": "abf659e63157d2f4dd82e7200c5a600f"
   },
   {
-    "url": "assets/js/19.12b5f9a2.js",
-    "revision": "64d40b46e4f5bc6da45507a1aa74b511"
+    "url": "assets/js/19.95a0676b.js",
+    "revision": "ab757308faff4d5ffbdca9bd37c02855"
   },
   {
-    "url": "assets/js/20.789baeb4.js",
-    "revision": "bfce05e02e0c35531ffcbcd961d9ef5e"
+    "url": "assets/js/20.b87bc721.js",
+    "revision": "0a85fa2ad1c805aefacef08b3fe8fc0b"
   },
   {
-    "url": "assets/js/21.b463b816.js",
-    "revision": "db4b5c4e1fefc241923a5c1dda3ade0b"
+    "url": "assets/js/21.acb3a061.js",
+    "revision": "c5b9b1387c1ce69845946e18d8415314"
   },
   {
-    "url": "assets/js/22.b5d5da70.js",
-    "revision": "5aefb60fab508a427b0c6ca0df4e986e"
+    "url": "assets/js/22.491320d0.js",
+    "revision": "8f935afff1095d2f7833c0dfe887eb16"
   },
   {
-    "url": "assets/js/23.bc49e2e3.js",
-    "revision": "d1ebcae9983746280b3da1645db45818"
+    "url": "assets/js/23.21c1b15a.js",
+    "revision": "0b801c0d7ab302910a0ba443296d4f7e"
   },
   {
-    "url": "assets/js/24.207ccac6.js",
-    "revision": "f4bb90e0373c120b9706759cb07f6fd8"
+    "url": "assets/js/24.aab1371e.js",
+    "revision": "1b28ca0c819a3c6c381febda9e42aeb7"
   },
   {
-    "url": "assets/js/25.72821999.js",
-    "revision": "81cebdf06a40b446e443879f8133f496"
+    "url": "assets/js/25.6b1cf56e.js",
+    "revision": "a2c0c6a718045b2cb96e5cc50d951123"
   },
   {
-    "url": "assets/js/26.015442cc.js",
-    "revision": "50929a226ef508589ad48f7714768866"
+    "url": "assets/js/26.887795d0.js",
+    "revision": "3e8e2120a11f0ceacf8d868cfecea816"
   },
   {
-    "url": "assets/js/27.adc94896.js",
-    "revision": "b9772d04e885c35a4acbc34132a7acfc"
+    "url": "assets/js/27.469afd8f.js",
+    "revision": "44da0fff3043e97f47dc8022d89d1136"
+  },
+  {
+    "url": "assets/js/28.c595b9af.js",
+    "revision": "41a3e415c4b7141ebea9eb324c5f8307"
   },
   {
     "url": "assets/js/3.ceb7af67.js",
@@ -138,12 +142,12 @@ self.__precacheManifest = [
     "revision": "7bb46c057c89f9bfd59ff37a32979551"
   },
   {
-    "url": "assets/js/9.90edd236.js",
-    "revision": "1cbef74e6fac04c6ea2e1a5844c6ec7e"
+    "url": "assets/js/9.1257f767.js",
+    "revision": "fc63cd6f7667f9681f2ba3dda2649f23"
   },
   {
-    "url": "assets/js/app.c3f6a54f.js",
-    "revision": "1ac2afdeb6e8a0a66ece1ca10a510aa3"
+    "url": "assets/js/app.052cebe1.js",
+    "revision": "f200dea5c472b66a6c16136c0152422a"
   },
   {
     "url": "avatar.png",
@@ -151,75 +155,79 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/Algorithm/CompletePack.html",
-    "revision": "49cee88e5500f0e93573bc4c90f6b95c"
+    "revision": "36d1aeea3c3de867842d94e6b25ed5a4"
+  },
+  {
+    "url": "blogs/Algorithm/DynamicMethods.html",
+    "revision": "06dca569d23a485ace760389c31c476a"
   },
   {
     "url": "blogs/Algorithm/knapsack01.html",
-    "revision": "3221e253f25958e06aa9a4fb18fedb65"
+    "revision": "14ed9d6308a239e9f1cb65bb70790591"
   },
   {
     "url": "blogs/Algorithm/PackTaolu.html",
-    "revision": "ce332b8c0a43b660be9e762c3b77db37"
+    "revision": "28c2e7d0b0c5910d797d1913c04bf63e"
   },
   {
     "url": "blogs/Algorithm/UnionFind.html",
-    "revision": "8dd415f64c54240940de0c33a3cb7698"
+    "revision": "b1048ef0421edd589d0f7b0c43a36cd4"
   },
   {
     "url": "blogs/Git/GIt.html",
-    "revision": "0072be58412890d6617274b2846a1aaf"
+    "revision": "956eb9f17a0769b3e135cd9d5aa3902e"
   },
   {
     "url": "blogs/index.html",
-    "revision": "2feae7b1f58b73bfdc97bdb4bd53be30"
+    "revision": "bfe94c509e4fa173b26030e9aef5e5d6"
   },
   {
     "url": "blogs/LeetCode/2020-10/139.html",
-    "revision": "debf99d5036647b41c840f7fec829662"
+    "revision": "4eb5dfd433b0289e341fac1d32625381"
   },
   {
     "url": "blogs/LeetCode/2020-10/309.html",
-    "revision": "be67c709d01d50dcd653cbf7a2ab546a"
+    "revision": "8d9b395ddab76bfa36137c7c2550d9fa"
   },
   {
     "url": "blogs/LeetCode/2020-10/322.html",
-    "revision": "9de5f8016105046439ae8dec0b7e1768"
+    "revision": "20a3bc4998abea70d70ff40da0484fcb"
   },
   {
     "url": "blogs/LeetCode/2020-10/377.html",
-    "revision": "19d9ee1dee6b6f61f6c5d68f9c1347f6"
+    "revision": "ac4906a4335926386223bd6d223f3d92"
   },
   {
     "url": "blogs/LeetCode/2020-10/416PartitionEqualSubsetSum.html",
-    "revision": "c37e9fa793eca50a52df52ab31796e73"
+    "revision": "6ca88c33e633739f305f4021b493d374"
   },
   {
     "url": "blogs/LeetCode/2020-10/474.html",
-    "revision": "e35d1b0526f98c8f68035ef5dc40db8e"
+    "revision": "3dfc1c3accd34c103f97caa1e54e0859"
   },
   {
     "url": "blogs/LeetCode/2020-10/518.html",
-    "revision": "e0070e0e0510338acfe404f324a80af7"
+    "revision": "933b7268abd30253bbda9d2d8d6f5a43"
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "c7497caae80046272ad7fa6f98e09a49"
+    "revision": "15a5138d4d86d82c0c723024e237477b"
   },
   {
     "url": "categories/git/index.html",
-    "revision": "b6b5f77198c1b2a9020ae1f0e61efe13"
+    "revision": "65a303c9458cd4323e30f960a187407e"
   },
   {
     "url": "categories/index.html",
-    "revision": "6b975376ebc829390b0e5747ba34ce35"
+    "revision": "c21a6a604dae9cd886eac964089a30b1"
   },
   {
     "url": "categories/LeetCode/index.html",
-    "revision": "cdd9264e079286e70e57579988fb743f"
+    "revision": "7fafbfe397df831c9c76a1a25b53cd78"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "230c29a51c74ea366e3db074105e763e"
+    "revision": "84b10da47e0f146a4eee5690465e630d"
   },
   {
     "url": "hero.png",
@@ -227,7 +235,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2aae64904d5313dea8705f7f957330d2"
+    "revision": "1b784a5ccb0234af786745dbb233e692"
   },
   {
     "url": "logo.png",
@@ -235,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "README.en.html",
-    "revision": "5e4fd9147be4b98f5fe813c77b62dfe8"
+    "revision": "14e3d203aed43fff1e313ad199b7f58f"
   },
   {
     "url": "summer.jpg",
@@ -243,55 +251,59 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/01背包/index.html",
-    "revision": "d8f3788fec6f6080fd087dd42b90149d"
+    "revision": "ba91e8baebf4d041c4c61482964824ad"
   },
   {
     "url": "tag/git/index.html",
-    "revision": "a495fb0c1b27f67f8ff15f31c97ac4bb"
+    "revision": "8e40d21d0ec798498d72838b643e0f0b"
   },
   {
     "url": "tag/gitee/index.html",
-    "revision": "b8d6837c8889ec403698d19c78918dff"
+    "revision": "c02160d04901f1cc55f7a4d3581e5268"
   },
   {
     "url": "tag/github/index.html",
-    "revision": "751416ac1d011b1ab232833565558cf9"
+    "revision": "b1167b557b4ef4d56a12f5ab26d1149c"
   },
   {
     "url": "tag/index.html",
-    "revision": "5f02829a4ec0319415adbc8ae98ef8c5"
+    "revision": "7cc1789cc0577aa774475c19b9127ee1"
   },
   {
     "url": "tag/动态规划/index.html",
-    "revision": "66f0df23d9a0ac046568ba97375fb092"
+    "revision": "e74022cd8102dfcc262e45bcad19fd9d"
+  },
+  {
+    "url": "tag/动态规划/page/2/index.html",
+    "revision": "1ef416c08bec9dc50ea185d8ed366f09"
   },
   {
     "url": "tag/完全背包/index.html",
-    "revision": "0330e68d71644119fe4b1dc0d4d147af"
+    "revision": "c5ae0c08ae22e4cb453523de07493caa"
   },
   {
     "url": "tag/并查集/index.html",
-    "revision": "b6bb3395816fba4a556edea1807ebf7e"
+    "revision": "c7eb06e8ac34e568c53850e0ff720714"
   },
   {
     "url": "tag/算法/index.html",
-    "revision": "75ca962fb985884b8032f604f5906615"
+    "revision": "a00a14300ee8873919583c764b19a865"
   },
   {
     "url": "tag/组合问题/index.html",
-    "revision": "e9a0e40b0ea330a2c1a840caa9ea8384"
+    "revision": "e4c9934e84ecbc8d6b278f03d9b43bd8"
   },
   {
     "url": "tag/股票问题/index.html",
-    "revision": "1fbb5de78f0185d6e6f7b31c3c2d85ec"
+    "revision": "6c06745554d8a3234bcd4b4e0598d491"
   },
   {
     "url": "tag/背包问题/index.html",
-    "revision": "735542356750581deeb270bb52d1d977"
+    "revision": "a1a686a9a3e3c0667b8f23cf80e9c6c0"
   },
   {
     "url": "timeline/index.html",
-    "revision": "c303e5de83381612d708fe3d7429b320"
+    "revision": "0e8e07eb0e58e68cd169d364fb321f69"
   },
   {
     "url": "vx.jpg",
