@@ -5,9 +5,10 @@ module.exports={
             collapsable: true,
             children:[
                 'Algorithm/CompletePack',
-                'Algorithm/knapsack01',
+                //'Algorithm/knapsack01',
                 'Algorithm/UnionFind',
-                'Algorithm/PackTaolu'
+                'Algorithm/PackTaolu',
+                'Algorithm/DynamicMethods'
             ]
         },
         {
