@@ -31,7 +31,8 @@ module.exports={
             title: 'Git',
             collapsable: true,
             children:[
-                'Git/GIt'
+                'Git/GIt',
+                'Git/GitBug1'
             ]
         }
     ]
