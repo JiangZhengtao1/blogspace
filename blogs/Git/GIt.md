@@ -2,7 +2,7 @@
 title:  Git入门
 date: 2020-10-31
 categories:
- - git
+ - Git
 tags:
  - git
  - github
