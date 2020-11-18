@@ -108,3 +108,73 @@ public class Welcome
 }
 ```
 
+## 构建字符串
+
+
+
+```java
+	   StringBuilder builder = new StringBuilder();
+	   //StringBuilder append(char c)
+	   builder.append('H');//appends a single character
+	   //StringBuilder append(String str)
+	   builder.append("i my baby");//appends a string
+	   String completeString = builder.toString();
+	   System.out.println(completeString);//Hi my baby
+	   //int length();
+	   System.out.println(builder.length());//10
+	   //StringBuilder appendCodePoint(int cp)
+	   builder.appendCodePoint(120134);
+	   System.out.println(builder.toString());//Hi my baby𝕆
+	   //void setCharAt(int i,char c)
+	   builder.setCharAt(10, 'a');
+	   System.out.println(builder.toString());//Hi my babya?
+	   //StringBuilder insert(int offset,String str)
+	   System.out.println(builder.insert(11,"code"));//Hi my babyacode?
+	   //StringBuilder insert(int offset,Char c)
+	   System.out.println(builder.insert(11,'_'));//Hi my babya_code?
+	   //StringBuilder delete(int startIndex,int endIndex)
+	   System.out.println(builder.delete(16, 17));//Hi my babya_code
+	   //String toString()
+	   System.out.println(builder.toString());//Hi my babya_code
+```
+
+
+
+## 输入输出
+
+```java
+	   //Scanner(InputStream in)
+	   Scanner in = new Scanner(System.in);
+	   System.out.println("What's your name?");
+	   //String nextLine();
+	   String name = in.nextLine();//Jiang Zhengtao
+	   System.out.println(name);//Jiang Zhengtao
+	   System.out.println("input your name gain?");
+	   //String next() 空格作为分隔符
+	   String firstName = in.next();
+	   String secondName = in.next();
+	   System.out.println("your firstName = " + firstName);//Jiang
+	   System.out.println("your secondName = " + secondName);//Zhengtao
+	   System.out.println("How old are you?");
+	   //int nextInt()
+	   int age = in.nextInt();
+	   System.out.println("your age is " + age);//23
+	   
+	   //Console
+	   Console cons = System.console();
+	   String username = cons.readLine("User name: ");
+	   char[] passwd = cons.readPassword("Password: ");
+	   System.out.println("username = " + username);
+	   System.out.println("Password = " + passwd.toString());
+	   
+	   //boolean hasNext() boolean hasNextInt() boolean hasNextDouble()
+	   System.out.println("input whatever you want:");
+	   while(in.hasNext()) {
+		   System.out.println(in.next());//girl friend
+	   }
+```
+
+
+
+**格式化输出**：
+
