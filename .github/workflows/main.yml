@@ -24,7 +24,7 @@ jobs:
 
       # 部署到分支
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.5.9
+        uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           # 注意在 Settings->Secrets 配置 ACCESS_TOKEN : Personal access tokens
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
