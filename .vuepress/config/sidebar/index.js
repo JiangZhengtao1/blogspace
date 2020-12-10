@@ -46,6 +46,12 @@ module.exports={
             children:[
                 'Java/String'
             ]
+        },{
+            title: '科研',
+            collapsable: true,
+            children:[
+                'Research/Methods01'
+            ]
         }
     ]
 
