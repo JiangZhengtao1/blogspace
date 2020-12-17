@@ -50,7 +50,9 @@ module.exports={
             title: '科研',
             collapsable: true,
             children:[
-                'Research/Methods01'
+                'Research/Methods01',
+                'Research/Methods02',
+                'Research/Methods03'
             ]
         }
     ]
