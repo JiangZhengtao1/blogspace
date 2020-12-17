@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "af94ca0ddc7a08fc48a0db31eb5a083a"
+    "revision": "4ccd1bc23523edc1b82ce3d40eb6177f"
   },
   {
     "url": "about/index.html",
-    "revision": "9cf8780c05547747a973cad6a24287cd"
+    "revision": "027caeeee6aa72c405acd0e502b45ee0"
   },
   {
     "url": "assets/css/0.styles.200d2a76.css",
@@ -182,32 +182,36 @@ self.__precacheManifest = [
     "revision": "b2ddcc80717ade656744b1bdcd1f48a5"
   },
   {
-    "url": "assets/js/42.527def8e.js",
-    "revision": "b8472b8a0bc4da89769ec5ed32e204d4"
+    "url": "assets/js/42.fd760766.js",
+    "revision": "de2a1d88d22a528e2b077721a31ff123"
   },
   {
-    "url": "assets/js/43.103ccc83.js",
-    "revision": "eec04c4caeb37a4cbffe1437d3dbcc47"
+    "url": "assets/js/43.3065207b.js",
+    "revision": "a78f262a92573cb253935f53d0896218"
   },
   {
-    "url": "assets/js/44.528bcaa4.js",
-    "revision": "4c3da8c7725fd8612c3e9fe093e270c6"
+    "url": "assets/js/44.8a84a9c8.js",
+    "revision": "d023b1bab7624aa83d466223480bc10a"
   },
   {
-    "url": "assets/js/45.cda4ff12.js",
-    "revision": "15ad567c40b948c8570e54e0b26317fe"
+    "url": "assets/js/45.dd3fab4b.js",
+    "revision": "7e79f453fb9438e67398ed2aa3ec63a7"
   },
   {
-    "url": "assets/js/46.6c0b16c8.js",
-    "revision": "2f2238c48bb37150afd1f5eb54e93d0f"
+    "url": "assets/js/46.86bfbfdf.js",
+    "revision": "f2a1fd86718ec3bea911a57b60996d0b"
   },
   {
-    "url": "assets/js/47.fb8586f3.js",
-    "revision": "5b6219326d95bf7e8d67ad30895c2de2"
+    "url": "assets/js/47.b7d141b5.js",
+    "revision": "8f34f9344221c77b839c9df371055adb"
   },
   {
-    "url": "assets/js/48.46ed6b4d.js",
-    "revision": "af591673dac809e1b6476b40bc659e6e"
+    "url": "assets/js/48.c1ef7084.js",
+    "revision": "da8648dd465da72b1323fe492ab23e16"
+  },
+  {
+    "url": "assets/js/49.30daa035.js",
+    "revision": "3429e5e4f67f2087d57ea152cfab7985"
   },
   {
     "url": "assets/js/5.b22a7363.js",
@@ -226,12 +230,12 @@ self.__precacheManifest = [
     "revision": "58cfcbe846cb6dce17efb01f58bdca0c"
   },
   {
-    "url": "assets/js/9.f5573938.js",
-    "revision": "611ce431ec17e0d74ffa324ffa432327"
+    "url": "assets/js/9.96ffbb6b.js",
+    "revision": "d62bb9636f4414c5a68efdc9291ceb41"
   },
   {
-    "url": "assets/js/app.73ac3eaa.js",
-    "revision": "77a8e98fde0b0077352df3a870dbaad2"
+    "url": "assets/js/app.db7ffbd2.js",
+    "revision": "6f2f94015d3f9be342524fed75662c80"
   },
   {
     "url": "avatar.png",
@@ -239,171 +243,175 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/Algorithm/CompletePack.html",
-    "revision": "8e464595afbe7480c715c74d708a3206"
+    "revision": "d9668d2e14462d881fec98921e86d20c"
   },
   {
     "url": "blogs/Algorithm/DynamicMethods.html",
-    "revision": "2322036a6a826630da29bff8cdb0905f"
+    "revision": "a6196f17b7ee01fcb08bb576b149ad7b"
   },
   {
     "url": "blogs/Algorithm/knapsack01.html",
-    "revision": "8c12e96dda1f9bb481c4c1568bdd47e2"
+    "revision": "a14531040ca05622d8012c0e5f4aa5a5"
   },
   {
     "url": "blogs/Algorithm/PackTaolu.html",
-    "revision": "d184296cb7e933a37da3df42c32b94c4"
+    "revision": "beab0dc624dbb5b8036de89ba42c523b"
   },
   {
     "url": "blogs/Algorithm/UnionFind.html",
-    "revision": "695b751d7300b2d5846b811c1ac8a42c"
+    "revision": "1dfcd0c46665f688256dcf8d3a1cc93d"
   },
   {
     "url": "blogs/Git/GIt.html",
-    "revision": "e9471f14fbd633d3f488ca34009600cb"
+    "revision": "466f7bfccb9b7ca09661b678239fb378"
   },
   {
     "url": "blogs/Git/GitBug1.html",
-    "revision": "ef3950ea7a6836ab8cad467474e07418"
+    "revision": "13a321d83cbdc62d88fdafcba18e2bd3"
   },
   {
     "url": "blogs/index.html",
-    "revision": "0e577b52e65f8d13cfff56f21e8049de"
+    "revision": "282a698bcba1ab05d716e3118d61c9c2"
   },
   {
     "url": "blogs/Java/String.html",
-    "revision": "50be31074d8ca72d9b1ce834446278b8"
+    "revision": "0c1c522f6d5d14420053239c9e84a6b9"
   },
   {
     "url": "blogs/LeetCode/2020-10/139.html",
-    "revision": "d35deacfd68f7316dfb83014e9fa9219"
+    "revision": "abdb77f0fdec1dc953abdb7e7a44b8cf"
   },
   {
     "url": "blogs/LeetCode/2020-10/309.html",
-    "revision": "3657a206ecb5c9a00ececf4b021bac01"
+    "revision": "b5a3db1340fdf38f302ac1746c84b544"
   },
   {
     "url": "blogs/LeetCode/2020-10/322.html",
-    "revision": "6371042ef56a3e75431019d79ad35056"
+    "revision": "3fb183dec1ba239b45c7123868db091f"
   },
   {
     "url": "blogs/LeetCode/2020-10/377.html",
-    "revision": "c1edba3b71b8f9260e5dc09089698ab6"
+    "revision": "1c2307e8cedbaf40438d4192deafe06b"
   },
   {
     "url": "blogs/LeetCode/2020-10/416PartitionEqualSubsetSum.html",
-    "revision": "c86cea14ec49a0eb6c8787b980197fbf"
+    "revision": "85b2af5273c3a588b0bd91580ac4b0d7"
   },
   {
     "url": "blogs/LeetCode/2020-10/474.html",
-    "revision": "9f7d76b3d3bc25cec3528b431628996e"
+    "revision": "86e7ef173614825e607e18cc8dc5486f"
   },
   {
     "url": "blogs/LeetCode/2020-10/518.html",
-    "revision": "0a77a3263c69fa79b165fb7ddda06e3c"
+    "revision": "0e171b7122c31b417a8bcc86c268dc40"
   },
   {
     "url": "blogs/LeetCode/2020-11/123.html",
-    "revision": "77b0f77c398e97ef216198177bde2d30"
+    "revision": "8059fa477328026a7d60b5d8a164815a"
   },
   {
     "url": "blogs/LeetCode/2020-11/168.html",
-    "revision": "16896fcdd4ed51b829ad8407c97da4f6"
+    "revision": "25e2bfd28b222f59e63a114079571ee0"
   },
   {
     "url": "blogs/LeetCode/2020-11/172.html",
-    "revision": "041eced5588816e66b843b573fbe5994"
+    "revision": "1520afae92e85ba86c5280f96a748271"
   },
   {
     "url": "blogs/LeetCode/2020-11/188.html",
-    "revision": "6374930bde7324c201bd8c04ff4d3daa"
+    "revision": "e81bbe978f53979d14029a44ec2adfd7"
   },
   {
     "url": "blogs/LeetCode/2020-11/204.html",
-    "revision": "82bd2d434cfa915785ab092dae1d248b"
+    "revision": "8c93c5288834af8ce405ec4d0fc65963"
   },
   {
     "url": "blogs/LeetCode/2020-11/405.html",
-    "revision": "32b3f2a6ec536b95a8d6b5a28b270575"
+    "revision": "e821d7a7906e57b008c575c43ba578b7"
   },
   {
     "url": "blogs/LeetCode/2020-11/415.html",
-    "revision": "c5aa169f699653fa9b9902dfc62b42be"
+    "revision": "e0c92c855b0ac8fc7646c45a3e073cfd"
   },
   {
     "url": "blogs/LeetCode/2020-11/494.html",
-    "revision": "a2decf6d6c5524ec378c3778672755fe"
+    "revision": "7899368ce6f6cca243b42b218d15c5bb"
   },
   {
     "url": "blogs/LeetCode/2020-11/504.html",
-    "revision": "ee2f421b10399139db90dace8cdb7e33"
+    "revision": "909ea37040415c30e793302e9a76c08b"
   },
   {
     "url": "blogs/LeetCode/2020-11/583.html",
-    "revision": "b936352dd38962636afb5063a2f84b2f"
+    "revision": "e4e2fe08b911547f5afbcab0f64879f0"
   },
   {
     "url": "blogs/LeetCode/2020-11/650.html",
-    "revision": "b4e2dc3ab81ec5d63e25b4b278a73da1"
+    "revision": "a4041e6246ae4fd6e820a7ba65755b05"
   },
   {
     "url": "blogs/LeetCode/2020-11/67.html",
-    "revision": "d0d9f2ed9860537978e62acccc5e10e6"
+    "revision": "a283d36bf2969c97d5929750fe84f4c2"
   },
   {
     "url": "blogs/LeetCode/2020-11/72.html",
-    "revision": "81110bb8bcdb68a20ae8cd6a93c7b8d7"
+    "revision": "fc197c0b731dae7ee7875f0ef24b45cf"
+  },
+  {
+    "url": "blogs/LeetCode/2020-12/169.html",
+    "revision": "1a6ba8fd63c32534901e92a935430bf3"
   },
   {
     "url": "blogs/LeetCode/2020-12/462.html",
-    "revision": "1a93dd2d9278e1531e5d40d9aa8468b6"
+    "revision": "1e2d280c2e66eae65955c6844d2ca8f6"
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "d690b7ba2d00609d70f7b773a59380a3"
+    "revision": "576176f39939ddb3b45fb2f32f95079c"
   },
   {
     "url": "blogs/Research/Methods01.html",
-    "revision": "4938b5c361af2e04f758c61660f16ac1"
+    "revision": "e66cae163e6bffb77a884096e7c2e9f9"
   },
   {
     "url": "blogs/Research/Methods02.html",
-    "revision": "1c2a1bd8d61c57c842988e54b7023381"
+    "revision": "97d001a2cc61d0f827167876266e135d"
   },
   {
     "url": "blogs/Research/Methods03.html",
-    "revision": "3dcecac213f2dcf78bad4110e2dc9947"
+    "revision": "2dc87685427c3c3552d1578f02bbc3de"
   },
   {
     "url": "categories/Git/index.html",
-    "revision": "01bfa92ac9e1f023d0182ab986abb03f"
+    "revision": "4b25c2b070ce8b15a33168127f65250e"
   },
   {
     "url": "categories/index.html",
-    "revision": "9ffd311437e3889bcdf50a6e5a56abb6"
+    "revision": "9932e5c4ee9337d64e190eb103d31f06"
   },
   {
     "url": "categories/Java/index.html",
-    "revision": "c44d3a7bddfa0b2b9ecb0d111ebda6e6"
+    "revision": "511145b3aea49c50c2f7b1351787e4ba"
   },
   {
     "url": "categories/LeetCode/index.html",
-    "revision": "8a5432073010004ca4fec7c7da803b80"
+    "revision": "2241574a79a5a070e868156077f7f52c"
   },
   {
     "url": "categories/LeetCode/page/2/index.html",
-    "revision": "0f6a929d8e8673a419f5e3eff4e077ec"
+    "revision": "20198286cc2a99d8d444b027acd57592"
   },
   {
     "url": "categories/LeetCode/page/3/index.html",
-    "revision": "36c0ce266595bde94a804eef3ff644da"
+    "revision": "73aae67e709681da69a7c72ce16f7088"
   },
   {
     "url": "categories/科研/index.html",
-    "revision": "e7ce74432bb1e2e707817d237efbdafa"
+    "revision": "9f9e00b494fd4727d28cb73b17fdaaf0"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "b5d282cca310a0275e54bd18ebc455e0"
+    "revision": "f2e0916279c3dc0236943d624d987de1"
   },
   {
     "url": "hero.png",
@@ -411,7 +419,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "03d76a63ac198c7a52b82c3b1527f4b9"
+    "revision": "59c4150dec961c9ca5d4b860576af1ac"
   },
   {
     "url": "logo.png",
@@ -419,7 +427,7 @@ self.__precacheManifest = [
   },
   {
     "url": "README.en.html",
-    "revision": "05745bf079b33f0d844d50e79be11a02"
+    "revision": "b69b1cedbfa1ce685cf1699fe09f2cdb"
   },
   {
     "url": "summer.jpg",
@@ -427,99 +435,103 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/01背包/index.html",
-    "revision": "8af54f1a3a140a1b35b116de6586edb6"
+    "revision": "a6a27aec531c289f0921b3c002475752"
   },
   {
     "url": "tag/git/index.html",
-    "revision": "51a7d32c76a5d56842069abb0e290e1d"
+    "revision": "56f16f2a05e7164a9593d2e2300d25e5"
   },
   {
     "url": "tag/GitBug/index.html",
-    "revision": "904dd56c229a311e80c364fd6b1c4622"
+    "revision": "2cffaa5584542c12939293f753df7efb"
   },
   {
     "url": "tag/gitee/index.html",
-    "revision": "45719aaa8d3759e445435618dbbd8535"
+    "revision": "17d1b3aa7e4ad28c8d57113a9f111ab0"
   },
   {
     "url": "tag/github/index.html",
-    "revision": "3167708042a3509dfb1c81461374110a"
+    "revision": "5c72b7f23885b21a5e306ddef7ea10c9"
   },
   {
     "url": "tag/index.html",
-    "revision": "98d85227aebfef28a832458504abdc8e"
+    "revision": "c721f875e496a20c03c22e461b4bc981"
   },
   {
     "url": "tag/String/index.html",
-    "revision": "4b9a4926d525966bffd55ed3db361657"
+    "revision": "cb54b5a9f8468dcf5d5db0c8d0c3f8d2"
   },
   {
     "url": "tag/动态规划/index.html",
-    "revision": "077a2861409a5841c74b891b6e5a329f"
+    "revision": "31a80a6be79a1b1e509b216a5d385556"
   },
   {
     "url": "tag/动态规划/page/2/index.html",
-    "revision": "c44a0ad67e9be3995e180e632b8be977"
+    "revision": "a04d7f73e7d93e3f349f93df83152627"
+  },
+  {
+    "url": "tag/多数投票问题/index.html",
+    "revision": "1772a3ace13d707d048ef90de74d6569"
   },
   {
     "url": "tag/字符串加法减法/index.html",
-    "revision": "f181201a7b3d97b2e680dc1579f04768"
+    "revision": "d1f9a85a8d1c07f5ce28366d4eff9e87"
   },
   {
     "url": "tag/字符串编辑/index.html",
-    "revision": "15ece89732c7f6cf4bbf867b8b0c8194"
+    "revision": "2c67c51e6e1b80dc410ab65df47618e7"
   },
   {
     "url": "tag/完全背包/index.html",
-    "revision": "81e92e02e22579d37dd418c27feaa068"
+    "revision": "a6367ab20c80043df7d4db909ea08eb1"
   },
   {
     "url": "tag/并查集/index.html",
-    "revision": "41e2ffd1ac4ecaeefe65b33858e933fd"
+    "revision": "6f9e675d26ec2672e0fdb3e1f257fd7f"
   },
   {
     "url": "tag/数学/index.html",
-    "revision": "99018e2a05851f149615fb8ca077d618"
+    "revision": "2c8e15df6c0fa84490a969df5a87ad95"
   },
   {
     "url": "tag/相遇问题/index.html",
-    "revision": "c305aa754343c2a18ea0b84585dcbe30"
+    "revision": "c608526ead218c8c51302be584676607"
   },
   {
     "url": "tag/算法/index.html",
-    "revision": "71df232a78ff9c6daffb5ac2af8182a8"
+    "revision": "9d8a0f99d516977b1650908c97e0df2d"
   },
   {
     "url": "tag/素数/index.html",
-    "revision": "6cfbe5c1273fe9947c8a21ab82e45d67"
+    "revision": "ba1c9ff8410a4d41ab45e07e5ff6de69"
   },
   {
     "url": "tag/组合问题/index.html",
-    "revision": "db6de1fbc4bc4acd6de1720dc6a39b3d"
+    "revision": "8bd5b4f98f32509d9a2a2f7d33e4b00d"
   },
   {
     "url": "tag/股票问题/index.html",
-    "revision": "98f969dab2b119e98e1b865e3bdf6da1"
+    "revision": "454f62a89874db36a84f150663839999"
   },
   {
     "url": "tag/背包问题/index.html",
-    "revision": "29abf11ddbf61417e943e3348d43db49"
+    "revision": "d56e85b3206b28f83a61bf756081ff8f"
   },
   {
     "url": "tag/读论文的方法/index.html",
-    "revision": "b859d4a7ce1ddf25a8f454d020f2b250"
+    "revision": "9ba9b7ca3fb35a6024295bd9b3120ec5"
   },
   {
     "url": "tag/进制转换/index.html",
-    "revision": "f97617b3e3d7a4b48af2d854fe352c7f"
+    "revision": "cd8a1ec30cc6a5df5980efa26085c051"
   },
   {
     "url": "tag/阶乘/index.html",
-    "revision": "928a7a67ee06f9736de772fde7affd1a"
+    "revision": "693f0073f6b235cdb44bab5fc8fa814c"
   },
   {
     "url": "timeline/index.html",
-    "revision": "31535940d60dfce9cf70e5ae2a90772a"
+    "revision": "3a7e9bec77512702889f75aa3a85ae99"
   },
   {
     "url": "vx.jpg",
