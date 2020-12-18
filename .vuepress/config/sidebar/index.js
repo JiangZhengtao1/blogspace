@@ -31,7 +31,10 @@ module.exports={
                 'LeetCode/2020-11/204',
                 'LeetCode/2020-11/504',
                 'LeetCode/2020-11/405',
-                'LeetCode/2020-11/172'
+                'LeetCode/2020-11/172',
+                'LeetCode/2020-12/462',
+                'LeetCode/2020-12/169',
+                'LeetCode/2020-12/326'
             ]
         },{
             title: 'Git',
@@ -45,6 +48,14 @@ module.exports={
             collapsable: true,
             children:[
                 'Java/String'
+            ]
+        },{
+            title: '科研',
+            collapsable: true,
+            children:[
+                'Research/Methods01',
+                'Research/Methods02',
+                'Research/Methods03'
             ]
         }
     ]
