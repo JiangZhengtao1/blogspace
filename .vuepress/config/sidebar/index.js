@@ -34,7 +34,10 @@ module.exports={
                 'LeetCode/2020-11/172',
                 'LeetCode/2020-12/462',
                 'LeetCode/2020-12/169',
-                'LeetCode/2020-12/326'
+                'LeetCode/2020-12/326',
+                'LeetCode/2021-01/238',
+                'LeetCode/2021-01/628',
+                'LeetCode/2021-01/160'
             ]
         },{
             title: 'Git',
