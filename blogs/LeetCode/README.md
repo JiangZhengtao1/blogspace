@@ -26,6 +26,9 @@ sticky: 1
 | 1    | [leetcode110.  平衡二叉树](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/110.html) |
 | ---- | ------------------------------------------------------------ |
 | 2    | [leetcode104. 二叉树的最大深度](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/104.html) |
-| 3    |                                                              |
-|      |                                                              |
+| 3    | [两节点的最长路径](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/543.html) |
+| 4    | [翻转树](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/226.html) |
+| 5    | [归并两个树](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/617.html) |
+| 6    | [判断路径和是否等于一个数](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/112.html) |
+| 7    | [统计路径和等于一个数的路径数量](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-01/437.html) |
 
