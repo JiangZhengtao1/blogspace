@@ -15,32 +15,7 @@ module.exports={
             title: 'Leetcode',
             collapsable: true,
             children:[
-                'LeetCode/2020-10/518',
-                'LeetCode/2020-10/474',
-                'LeetCode/2020-10/416PartitionEqualSubsetSum',
-                'LeetCode/2020-10/322',
-                'LeetCode/2020-10/309',
-                'LeetCode/2020-10/377',
-                'LeetCode/2020-10/139',
-                'LeetCode/2020-11/494',
-                'LeetCode/2020-11/123',
-                'LeetCode/2020-11/188',
-                'LeetCode/2020-11/583',
-                'LeetCode/2020-11/72',
-                'LeetCode/2020-11/650',
-                'LeetCode/2020-11/204',
-                'LeetCode/2020-11/504',
-                'LeetCode/2020-11/405',
-                'LeetCode/2020-11/172',
-                'LeetCode/2020-12/462',
-                'LeetCode/2020-12/169',
-                'LeetCode/2020-12/326',
-                'LeetCode/2021-01/238',
-                'LeetCode/2021-01/628',
-                'LeetCode/2021-01/160',
-                'LeetCode/2021-01/206',
-                'LeetCode/2021-01/21',
-                'LeetCode/2021-01/83'
+                'LeetCode/'
             ]
         },{
             title: 'Git',
