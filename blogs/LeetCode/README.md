@@ -41,4 +41,7 @@ sticky: 1
 | 14           | [LeetCode671 二叉树中第二最小节点](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-02/671.html) |
 | **层次遍历** |                                                              |
 | 1            | [LeetCode637 二叉树的每层节点平均数](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-02/637.html) |
+| 2            | [LeetCode513 找最左下角的值](https://kingjzt.gitee.io/blogspace/blogs/LeetCode/2021-02/513.html) |
+
+
 
