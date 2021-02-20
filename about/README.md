@@ -8,7 +8,7 @@ author: Jzt
 
 ## 未来的计划
 
-**刷LeetCode300道**： 目前已刷125道
+**刷LeetCode300道**： 目前已刷126道
 
 **学习Java**：
 
